@@ -1,0 +1,19 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "keys.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amendes1983/liri-node-app.git"
+  },
+  "author": "Aaron Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amendes1983/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/amendes1983/liri-node-app#readme"
+}
